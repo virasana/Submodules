@@ -1,0 +1,6 @@
+[submodule "ChildB"]
+	path = ChildB
+	url = https://github.com/virasana/ChildB.git
+[submodule "ChildA"]
+	path = ChildA
+	url = https://github.com/virasana/ChildA.git
